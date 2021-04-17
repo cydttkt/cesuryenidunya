@@ -1,9 +1,9 @@
 <h1>Hoşgeldiniz</h1>
   <h2> Takvimimiz </h2>
-Pazartesi -
-Salı - 
-Çarşamba -
-Perşembe - 
-Cuma - 
-Cumartesi -
-Pazar -
+Pazartesi - <br>
+Salı - <br>
+Çarşamba - <br>
+Perşembe - <br>
+Cuma - <br>
+Cumartesi - <br>
+Pazar - <br>
