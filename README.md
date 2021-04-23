@@ -21,7 +21,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/n7g4DSttXT)
 
-[![N|Discord](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/n7g4DSttXT)
+[(https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/n7g4DSttXT)
 
 [link text][a]
 
