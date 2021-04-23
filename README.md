@@ -17,6 +17,10 @@
 | Cumartesi | x | x |
 | Pazar | x | x |
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/n7g4DSttXT)
+
 [link text][a]
 
 
