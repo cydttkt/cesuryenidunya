@@ -21,7 +21,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/n7g4DSttXT)
 
-[(Cesur Yeni Dünta Discord)](https://discord.gg/n7g4DSttXT)
+[Cesur Yeni Dünta Discord](https://discord.gg/n7g4DSttXT)
 
 [link text][a]
 
