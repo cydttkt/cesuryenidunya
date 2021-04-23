@@ -1,7 +1,5 @@
 
-> Hey sen! Uzak diyarlardan gelen yolcu,    
-> şehrimize hoş geldin. Biz bu topraklara
-> kendi aramızda Cesur Yeni Dünya diyoruz.
+> Hey sen! Uzak diyarlardan gelen yolcu, şehrimize hoş geldin. Biz bu topraklara kendi aramızda Cesur Yeni Dünya diyoruz.
 
 # Takvim
 
