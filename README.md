@@ -6,14 +6,14 @@
 # Takvim
 
 | GÜN | ETKİNLİK | AÇIKLAMA
-| ------ | ------ |
-| Pazartesi | - |
-| Salı | - |
+| ------ | ------ | ------ |
+| Pazartesi | x | x |
+| Salı | x | x |
 | Çarşamba (22:00) |  CYD Muhabbet | Bram Stoker'dan Dracula & Sadece Âşıklar Hayatta Kalır.
 | Perşembe | CYD RPG | Fate ve DnD Sistem anlatımı
 | Cuma | CYD Etkinlik | Kokoloji
-| Cumartesi | - |
-| Pazar | - |
+| Cumartesi | x | x |
+| Pazar | x | x |
 
 
 
