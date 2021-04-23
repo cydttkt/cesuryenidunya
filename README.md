@@ -13,7 +13,7 @@
 | Perşembe | CYD RPG | Fate ve DnD Sistem anlatımı
 | Cuma | CYD Etkinlik | Kokoloji
 | Cumartesi | x | x |
-| Pazar | x | x |
+| Pazar (22:00) | CYD Oyun | Bu Hikayedeki Göt Ben Miyim? |
 
 
 # İletişim
