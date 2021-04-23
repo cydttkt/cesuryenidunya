@@ -3,9 +3,19 @@
 > şehrimize hoş geldin. Biz bu topraklara
 > kendi aramızda Cesur Yeni Dünya diyoruz.
 
-
-
 # Takvim
+
+| GÜN | ETKİNLİK |
+| ------ | ------ |
+| Pazartesi | [plugins/dropbox/README.md][PlDb] |
+| Salı | [plugins/github/README.md][PlGh] |
+| Çarşamba | (22:00) CYD Muhabbet |
+| Perşembe | CYD RPG |
+| Cuma | CYD Etkinlik |
+| Cumartesi | [plugins/googleanalytics/README.md][PlGa] |
+| Pazar | [plugins/googleanalytics/README.md][PlGa] |
+
+
 
 <hr> 14 Nisan Çarşamba
 Cesur Yeni Dünya'da Film İnceleme Akşamı | Suspiria
