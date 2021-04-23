@@ -2,6 +2,14 @@
 > Hey sen! Uzak diyarlardan gelen yolcu, şehrimize hoş geldin. 
 > Biz bu topraklara kendi aramızda Cesur Yeni Dünya diyoruz.
 
+> Hey sen! Uzak diyarlardan gelen yolcu,
+> şehrimize hoş geldin. Biz bu topraklara
+> kendi aramızda Cesur Yeni Dünya diyoruz.
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
+
 # Takvim
 
 19-25 NİSAN HAFTALIK PROGRAM
