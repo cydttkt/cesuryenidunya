@@ -5,15 +5,15 @@
 
 # Takvim
 
-| GÜN | ETKİNLİK |
+| GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ |
-| Pazartesi | [plugins/dropbox/README.md][PlDb] |
-| Salı | [plugins/github/README.md][PlGh] |
-| Çarşamba | (22:00) CYD Muhabbet |
-| Perşembe | CYD RPG |
-| Cuma | CYD Etkinlik |
-| Cumartesi | [plugins/googleanalytics/README.md][PlGa] |
-| Pazar | [plugins/googleanalytics/README.md][PlGa] |
+| Pazartesi | - |
+| Salı | - |
+| Çarşamba (22:00) |  CYD Muhabbet | Bram Stoker'dan Dracula & Sadece Âşıklar Hayatta Kalır.
+| Perşembe | CYD RPG | Fate ve DnD Sistem anlatımı
+| Cuma | CYD Etkinlik | Kokoloji
+| Cumartesi | - |
+| Pazar | - |
 
 
 
