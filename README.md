@@ -8,12 +8,12 @@
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
-| Salı | x | x |
-| Çarşamba (22:00) |  CYD Muhabbet | Bram Stoker'dan Dracula & Sadece Âşıklar Hayatta Kalır.
-| Perşembe | CYD RPG | Fate ve DnD Sistem anlatımı
-| Cuma | CYD Etkinlik | Kokoloji
-| Cumartesi | x | x |
-| Pazar (22:00) | CYD Oyun | Bu Hikayedeki Göt Ben Miyim? |
+| Salı | CYD Oyun | Secret Hitler |
+| Çarşamba (22:00) |  CYD Muhabbet | The Man From Earth & Dinler Tarihi
+| Perşembe | x | x
+| Cuma | x | x
+| Cumartesi | CYD Oyun | Sana Yalan Borcum Mu Var? |
+| Pazar | x | x |
 
 
 # İletişim
