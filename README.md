@@ -7,7 +7,7 @@
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
-| Pazartesi | x | x |
+| Pazartesi | CYD Etkinlik | Kokoloji (yazılı) |
 | Salı | CYD Oyun | Secret Hitler |
 | Çarşamba (22:00) |  CYD Muhabbet | The Man From Earth & Dinler Tarihi
 | Perşembe | x | x
