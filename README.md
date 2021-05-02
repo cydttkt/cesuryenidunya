@@ -7,13 +7,13 @@
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
-| Pazartesi | CYD Etkinlik | Kokoloji (yazılı) |
-| Salı | CYD Oyun | Secret Hitler |
-| Çarşamba (22:00) |  CYD Muhabbet | The Man From Earth & Dinler Tarihi
+| Pazartesi | x | x |
+| Salı | CYD Etkinlik | Kokoloji (yazılı) |
+| Çarşamba (22:00) |  CYD Muhabbet | Köpekler Pantolon Giymez & İnsan Anomalileri
 | Perşembe | x | x
-| Cuma | x | x
-| Cumartesi | CYD Oyun | Sana Yalan Borcum Mu Var? |
-| Pazar | x | x |
+| Cuma (22:00) | CYD Etkinlik |  Kokoloji
+| Cumartesi | x | x |
+| Pazar (22:00) | CYD Oyun | Hayasız Münakaşa |
 
 
 # İletişim
