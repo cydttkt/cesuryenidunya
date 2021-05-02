@@ -3,7 +3,7 @@
 
 # Takvim
 
-26 NİSAN-2 MAYIS HAFTALIK PROGRAM
+3 MAYIS - 9 MAYIS HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
