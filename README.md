@@ -8,10 +8,10 @@
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
-| Salı | CYD Etkinlik | Kokoloji (yazılı) |
+| Salı | x | x |
 | Çarşamba (22:00) |  CYD Muhabbet | Köpekler Pantolon Giymez & İnsan Anomalileri
 | Perşembe | x | x
-| Cuma (22:00) | CYD Etkinlik |  Kokoloji
+| Cuma | CYD Etkinlik |  Kokoloji (yazılı)
 | Cumartesi | x | x |
 | Pazar (22:00) | CYD Oyun | Hayasız Münakaşa |
 
