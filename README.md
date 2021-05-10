@@ -9,11 +9,10 @@
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
 | Salı | x | x |
-| Çarşamba (22:00) |  CYD Muhabbet | Köpekler Pantolon Giymez & İnsan Anomalileri
-| Perşembe | x | x
-| Cuma | CYD Etkinlik |  Kokoloji (yazılı)
+| Çarşamba (22:00) |  CYD Muhabbet | Dehşet Kapanı & Sinema Klişeleri & Korku Hikayeleri |
+| Cuma (16:00)| CYD Oyun |  Hayasız Münakaşa |
 | Cumartesi | x | x |
-| Pazar (22:00) | CYD Oyun | Hayasız Münakaşa |
+| Pazar (22:00) | CYD Etkinlik | Kokoloji |
 
 
 # İletişim
