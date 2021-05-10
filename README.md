@@ -3,7 +3,7 @@
 
 # Takvim
 
-3 MAYIS - 9 MAYIS HAFTALIK PROGRAM
+10 MAYIS - 16 MAYIS HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
