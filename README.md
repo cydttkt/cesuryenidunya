@@ -3,19 +3,19 @@
 
 # Takvim
 
-10 MAYIS - 16 MAYIS HAFTALIK PROGRAM
+17 MAYIS - 23 MAYIS HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
 | Salı | x | x |
-| Çarşamba (22:00) |  CYD Muhabbet | Dehşet Kapanı & Sinema Klişeleri & Korku Hikayeleri |
-| Cuma (16:00)| CYD Oyun |  Hayasız Münakaşa |
-| Cumartesi | x | x |
-| Pazar (22:00) | CYD Etkinlik | Kokoloji |
+| Çarşamba (22:00) |  CYD Muhabbet | A Ghost Story & Yaşam Ve Ölüm |
+| Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
+| Cumartesi (22:00)| CYD Oyun | Sana Yalan Borcum Mu Var? |
+| Pazar | x | x |
 
 
 # İletişim
 
 - [Cesur Yeni Dünya Discord](https://discord.gg/n7g4DSttXT)
-
+- [Cesur Yeni Dünya İnstagram](https://www.instagram.com/cesur.yeni.dunya/)
