@@ -10,6 +10,7 @@
 | Pazartesi | x | x |
 | Salı | x | x |
 | Çarşamba (22:00) |  CYD Muhabbet | A Ghost Story & Yaşam Ve Ölüm |
+| Perşembe | x | x |
 | Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
 | Cumartesi (22:00)| CYD Oyun | Sana Yalan Borcum Mu Var? |
 | Pazar | x | x |
