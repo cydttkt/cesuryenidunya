@@ -3,7 +3,7 @@
 
 # Takvim
 
-17 MAYIS - 23 MAYIS HAFTALIK PROGRAM
+24 MAYIS - 30 MAYIS HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
@@ -12,8 +12,8 @@
 | Çarşamba (22:00) |  CYD Muhabbet | A Ghost Story & Yaşam Ve Ölüm |
 | Perşembe | x | x |
 | Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
-| Cumartesi (22:00)| CYD Oyun | Sana Yalan Borcum Mu Var? |
-| Pazar | x | x |
+| Cumartesi (22:00)| CYD Oyun | Elalem Ne Der? |
+| Pazar (22:00) | CYD Oyun | Figüran Aranıyor! |
 
 
 # İletişim
