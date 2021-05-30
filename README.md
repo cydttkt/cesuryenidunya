@@ -13,7 +13,7 @@
 | Perşembe | x | x |
 | Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
 | Cumartesi (22:00)| CYD Oyun | Elalem Ne Der? |
-| Pazar (22:00) | CYD Oyun | Figüran Aranıyor! |
+| Pazar (17:00) | CYD Oyun | Figüran Aranıyor! |
 
 
 # İletişim
