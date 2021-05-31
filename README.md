@@ -9,11 +9,11 @@
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
 | Salı | x | x |
-| Çarşamba (22:00) |  CYD Muhabbet | A Ghost Story & Yaşam Ve Ölüm |
+| Çarşamba (22:00) |  CYD Muhabbet | Animasyonlar ve Yozlaşan Dünya Sistemi |
 | Perşembe | x | x |
 | Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
-| Cumartesi (22:00)| CYD Oyun | Elalem Ne Der? |
-| Pazar (17:00) | CYD Oyun | Figüran Aranıyor! |
+| Cumartesi | x | x |
+| Pazar (17:00) | CYD Oyun | İlişki Tavsiyeleri |
 
 
 # İletişim
