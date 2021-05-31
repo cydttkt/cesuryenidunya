@@ -13,7 +13,7 @@
 | Perşembe | x | x |
 | Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
 | Cumartesi | x | x |
-| Pazar (17:00) | CYD Oyun | İlişki Tavsiyeleri |
+| Pazar (22:00) | CYD Oyun | İlişki Tavsiyeleri |
 
 
 # İletişim
