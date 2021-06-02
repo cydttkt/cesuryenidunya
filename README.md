@@ -3,7 +3,7 @@
 
 # Takvim
 
-24 MAYIS - 30 MAYIS HAFTALIK PROGRAM
+31 MAYIS - 6 HAZİRAN HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
