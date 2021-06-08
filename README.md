@@ -8,12 +8,12 @@
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
-| Salı | x | x |
-| Çarşamba (22:00) |  CYD Muhabbet | Animasyonlar ve Yozlaşan Dünya Sistemi |
+| Salı (22:00) | CYD Etkinlik | Kafa Açan |
+| Çarşamba (22:00) |  CYD Muhabbet |  Gündem & Esaretin Bedeli & Algoritma |
 | Perşembe | x | x |
 | Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
 | Cumartesi | x | x |
-| Pazar (22:00) | CYD Oyun | İlişki Tavsiyeleri |
+| Pazar (22:00) | CYD Oyun | Hayasız Münakaşa Yarı Final |
 
 
 # İletişim
