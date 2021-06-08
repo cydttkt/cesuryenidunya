@@ -3,7 +3,7 @@
 
 # Takvim
 
-31 MAYIS - 6 HAZİRAN HAFTALIK PROGRAM
+7 HAZİRAN - 13 HAZİRAN HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
