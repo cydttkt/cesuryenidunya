@@ -3,17 +3,17 @@
 
 # Takvim
 
-7 HAZİRAN - 13 HAZİRAN HAFTALIK PROGRAM
+14 HAZİRAN - 20 HAZİRAN HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
-| Salı (22:00) | CYD Etkinlik | Kafa Açan |
-| Çarşamba (22:00) |  CYD Muhabbet |  Gündem & Esaretin Bedeli & Algoritma |
+| Salı (17:00) | CYD Oyun | Vampir Köylü|
+| Çarşamba (22:00) |  CYD Muhabbet |  Gündem & Anılar |
 | Perşembe | x | x |
-| Cuma (22:00)| CYD Etkinlik |  İnsan Ansiklopedisi |
+| Cuma (22:00)| CYD Etkinlik |  Kokoloji |
 | Cumartesi | x | x |
-| Pazar (22:00) | CYD Oyun | Hayasız Münakaşa Yarı Final |
+| Pazar (22:00) | CYD Oyun | Elalem Ne Der? |
 
 
 # İletişim
