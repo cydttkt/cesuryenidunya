@@ -3,17 +3,17 @@
 
 # Takvim
 
-14 HAZİRAN - 20 HAZİRAN HAFTALIK PROGRAM
+05 TEMMUZ - 11 TEMMUZ HAFTALIK PROGRAM
 
 | GÜN | ETKİNLİK | AÇIKLAMA
 | ------ | ------ | ------ |
 | Pazartesi | x | x |
-| Salı (17:00) | CYD Oyun | Vampir Köylü|
-| Çarşamba (22:00) |  CYD Muhabbet |  Gündem & Anılar |
+| Salı | X | X |
+| Çarşamba (22:00) |  CYD Muhabbet |  Gündem & LGBTİQ |
 | Perşembe | x | x |
-| Cuma (22:00)| CYD Etkinlik |  Kokoloji |
+| Cuma (17:00)| CYD Oyun |  Figüran Aranıyor |
 | Cumartesi | x | x |
-| Pazar (22:00) | CYD Oyun | Elalem Ne Der? |
+| Pazar | x | x |
 
 
 # İletişim
